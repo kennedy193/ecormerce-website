@@ -9,7 +9,7 @@ MySQL
 Setup Instructions
 
 Clone the Repository
-git clone https://github.com/your-username/ecommerce.git
+git clone https://github.com/kennedy193/ecormerce-website.git
 
 
 Configure Database
